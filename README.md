@@ -13,7 +13,13 @@ No Screen Recording permission. No Accessibility permission. No icon scanning.
 
 ## App
 
-The built app is included in this repository:
+Download the ready-to-use app:
+
+```text
+https://github.com/bailegebaiya/BarDock/releases/latest/download/BarDock.zip
+```
+
+The built app bundle is also included in this repository:
 
 ```text
 dist/BarDock.app
